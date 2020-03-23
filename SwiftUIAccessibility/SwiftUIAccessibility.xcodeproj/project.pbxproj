@@ -16,6 +16,7 @@
 		23490F892428802A0093ADC7 /* SwiftUIAccessibilityTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23490F882428802A0093ADC7 /* SwiftUIAccessibilityTests.swift */; };
 		23490F942428802A0093ADC7 /* SwiftUIAccessibilityUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23490F932428802A0093ADC7 /* SwiftUIAccessibilityUITests.swift */; };
 		23490FA2242881460093ADC7 /* DynamicTypeWithCustomFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23490FA1242881460093ADC7 /* DynamicTypeWithCustomFont.swift */; };
+		23490FA42428989E0093ADC7 /* ReduceMotionAccessibilityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23490FA32428989E0093ADC7 /* ReduceMotionAccessibilityView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		23490F932428802A0093ADC7 /* SwiftUIAccessibilityUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAccessibilityUITests.swift; sourceTree = "<group>"; };
 		23490F952428802A0093ADC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		23490FA1242881460093ADC7 /* DynamicTypeWithCustomFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicTypeWithCustomFont.swift; sourceTree = "<group>"; };
+		23490FA32428989E0093ADC7 /* ReduceMotionAccessibilityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceMotionAccessibilityView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				23490F7F242880290093ADC7 /* Info.plist */,
 				23490F79242880290093ADC7 /* Preview Content */,
 				23490FA1242881460093ADC7 /* DynamicTypeWithCustomFont.swift */,
+				23490FA32428989E0093ADC7 /* ReduceMotionAccessibilityView.swift */,
 			);
 			path = SwiftUIAccessibility;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				23490F72242880030093ADC7 /* AppDelegate.swift in Sources */,
+				23490FA42428989E0093ADC7 /* ReduceMotionAccessibilityView.swift in Sources */,
 				23490F74242880030093ADC7 /* SceneDelegate.swift in Sources */,
 				23490F76242880030093ADC7 /* ContentView.swift in Sources */,
 				23490FA2242881460093ADC7 /* DynamicTypeWithCustomFont.swift in Sources */,
