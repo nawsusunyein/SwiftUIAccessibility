@@ -9,7 +9,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    let componentsList = ["Dynamic types with custom fonts","Reduce Motions","Detect Dark Mode"]
+    let componentsList = ["Dynamic types with custom fonts","Reduce Motions","Detect Dark Mode","Decorative Images"]
     
     var body: some View {
         NavigationView{
@@ -34,6 +34,13 @@ struct ContentView: View {
                         .background(Color.blue)
                         .foregroundColor(Color.white)
                         .cornerRadius(5)
+                }
+                NavigationLink(destination:DecorativeImages()){
+                    Text(componentsList[3])
+                        .padding()
+                        .background(Color.blue)
+                        .foregroundColor(Color.white)
+                    .cornerRadius(5)
                 }
             }
             

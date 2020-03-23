@@ -18,6 +18,7 @@
 		23490FA2242881460093ADC7 /* DynamicTypeWithCustomFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23490FA1242881460093ADC7 /* DynamicTypeWithCustomFont.swift */; };
 		23490FA42428989E0093ADC7 /* ReduceMotionAccessibilityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23490FA32428989E0093ADC7 /* ReduceMotionAccessibilityView.swift */; };
 		23490FA624289C630093ADC7 /* DetectDarkModeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23490FA524289C630093ADC7 /* DetectDarkModeView.swift */; };
+		23490FB52428BA6A0093ADC7 /* DecorativeImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23490FB42428BA6A0093ADC7 /* DecorativeImages.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		23490FA1242881460093ADC7 /* DynamicTypeWithCustomFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicTypeWithCustomFont.swift; sourceTree = "<group>"; };
 		23490FA32428989E0093ADC7 /* ReduceMotionAccessibilityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceMotionAccessibilityView.swift; sourceTree = "<group>"; };
 		23490FA524289C630093ADC7 /* DetectDarkModeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectDarkModeView.swift; sourceTree = "<group>"; };
+		23490FB42428BA6A0093ADC7 /* DecorativeImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecorativeImages.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				23490FA1242881460093ADC7 /* DynamicTypeWithCustomFont.swift */,
 				23490FA32428989E0093ADC7 /* ReduceMotionAccessibilityView.swift */,
 				23490FA524289C630093ADC7 /* DetectDarkModeView.swift */,
+				23490FB42428BA6A0093ADC7 /* DecorativeImages.swift */,
 			);
 			path = SwiftUIAccessibility;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 				23490FA624289C630093ADC7 /* DetectDarkModeView.swift in Sources */,
 				23490F72242880030093ADC7 /* AppDelegate.swift in Sources */,
 				23490FA42428989E0093ADC7 /* ReduceMotionAccessibilityView.swift in Sources */,
+				23490FB52428BA6A0093ADC7 /* DecorativeImages.swift in Sources */,
 				23490F74242880030093ADC7 /* SceneDelegate.swift in Sources */,
 				23490F76242880030093ADC7 /* ContentView.swift in Sources */,
 				23490FA2242881460093ADC7 /* DynamicTypeWithCustomFont.swift in Sources */,
